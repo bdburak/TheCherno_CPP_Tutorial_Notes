@@ -1,0 +1,1 @@
+Branching(if-else statements) can make your program slower. If you want to achieve the most optimized code you can, you should avoid them whenever possible.
